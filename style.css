@@ -13,6 +13,8 @@
 }
 .ball, .button {
   margin: 0 auto;
+  position:relative;
+  width:80%;
 }
 .answer {
   position:absolute;
