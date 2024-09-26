@@ -68,7 +68,7 @@
   font-family: "Montserrat", sans-serif;
 }
 
-.wavy span {
+.wavy * {
   position: relative;
   display: inline-block;
   font-size: 2em;
